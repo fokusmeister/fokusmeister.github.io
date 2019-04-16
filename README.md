@@ -1,2 +1,2 @@
 # fokusmeister.github.io
-Fokus Meister Website
+Fokus Meister Website!
